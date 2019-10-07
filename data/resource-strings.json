@@ -1,0 +1,37 @@
+{
+   "values" : {
+       "maze_start":"mazeすたーと！",
+       "group_maze_start": "group maze.. はい！",
+       "press_to_join":"参加したかったら★を押してくださいね！",
+       "participants": "参加してるプレイヤー：\n",
+       "status_formatter": "**{}**のポイント：**{}**\n",
+       "status_weak" : "よわーい！",
+       "status_medium" : "まあまあね",
+       "status_strong" : "中々やるじゃない！",
+       "status_very_strong" : "キミすごい！！",
+       "cant": "できないよ！",
+       "registered_success" : "登録したよ、{}！！",
+       "registered_failure" : "`register ＜名前＞`だよ！\n",
+       "locale_success" : "日本語に変えたよ！",
+       "locale_failure1" : "`!changelocale [ja | en]`！",
+       "locale_failure2" : "`!changelocale [ja | en]`！（日本語と英語しかない）"
+
+   },
+    "valuesen" : {
+        "maze_start":"Maze.. start!",
+        "group_maze_start": "Group maze.. Here we go!",
+        "press_to_join": "Press ★ if you wanna join~",
+        "participants": "Participating players:\n",
+        "status_formatter": "**{}**'s points: **{}**\n",
+        "status_weak" : "Wow! How weak!",
+        "status_medium" : "Not bad, I guess",
+        "status_strong" : "Hey, that's pretty good!",
+        "status_very_strong" : "You're amazing!!",
+        "cant": "You can't!",
+        "registered_success" : "Now registered, {}!!",
+        "registered_failure" : "It's `register <name>`!",
+        "locale_success" : "Switched to English!",
+        "locale_failure1" : "`!changelocale [ja | en]`!",
+        "locale_failure2" : "`!changelocale [ja | en]`! (Only English and Japanese for now)"
+    }
+}
